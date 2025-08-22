@@ -73,7 +73,7 @@ New: Pammi.Aunty.S01E06.720p.HS.WEB-DL.EN.AAC2.0.H264-TMBxHIMU.mkv
  - mkvpropedit is mandatory for updating track metadata.
 
 
-🔧 Troubleshooting :
+# 🔧 Troubleshooting :
 
 1. **Python not detected**
    - Error : [ERROR] Python is not installed or not in PATH.
@@ -90,7 +90,7 @@ New: Pammi.Aunty.S01E06.720p.HS.WEB-DL.EN.AAC2.0.H264-TMBxHIMU.mkv
    - Error: [WARNING] mkvpropedit not found!
    - Fix: Install MKVToolNix from https://mkvtoolnix.download/
 
-    # Add its install folder (e.g., C:\Program Files\MKVToolNix) to System PATH.
+    - Add its install folder (e.g., C:\Program Files\MKVToolNix) to System PATH.
 
    - Verify: mkvpropedit --version
 
