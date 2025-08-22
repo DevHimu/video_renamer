@@ -1,12 +1,11 @@
 # Rename by HIMU
 
 ====================================================
-       ██╗  ██╗██╗███╗   ███╗██╗   ██╗
-       ██║  ██║██║████╗ ████║██║   ██║
-       ███████║██║██╔████╔██║██║   ██║
-       ██╔══██║██║██║╚██╔╝██║██║   ██║
-       ██║  ██║██║██║ ╚═╝ ██║╚██████╔╝
-       ╚═╝  ╚═╝╚═╝╚═╝     ╚═╝ ╚═════╝ 
+       █   █  █████  █   █  █   █  
+       █   █    █    ██ ██  █   █  
+       █████    █    █ █ █  █   █  
+       █   █    █    █   █  █   █  
+       █   █  █████  █   █   ███   
 ====================================================
 
 
@@ -97,7 +96,9 @@ New: Pammi.Aunty.S01E06.720p.HS.WEB-DL.EN.AAC2.0.H264-TMBxHIMU.mkv
 
     - Add its install folder (e.g., C:\Program Files\MKVToolNix) to System PATH.
 
-   - Verify: mkvpropedit --version
+   - Verify:
+     ```bash
+     mkvpropedit --version
 
 
  Created with ❤️ by HIMU
