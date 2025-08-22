@@ -1,0 +1,25 @@
+{
+  "input_folder": "rename_input",
+  "output_folder": "rename_output",
+  "add_srt": "HIMU.und.srt",
+  "credit": "TMBxHIMU",
+  "width_resolution_map": {
+    "1920": "1080p",
+    "1280": "720p",
+    "3840": "2160p",
+    "720": "480p"
+  },
+  "video_codec_map": {
+    "AVC": "H.264",
+    "HEVC": "H.265",
+    "VP9": "VP9",
+    "AV1": "AV1"
+  },
+  "audio_codec_map": {
+    "AAC": "AAC2.0",
+    "AAC LC": "AAC2.0",
+    "E-AC-3": "DDP5.1",
+    "AC-3": "DD5.1",
+    "Opus": "OPUS"
+  }
+}
