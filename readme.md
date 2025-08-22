@@ -46,7 +46,7 @@ Make sure you have the following installed **before running the script**:
 
 ---
 
-**## 🚀 Usage**
+# 🚀 Usage
 
 1. **Place your `.mkv` files in the **`input_folder/`**.**  
    (They will be renamed **in-place** unless changed to `output_folder/` in config).
