@@ -79,15 +79,19 @@ New: Pammi.Aunty.S01E06.720p.HS.WEB-DL.EN.AAC2.0.H264-TMBxHIMU.mkv
 1. **Python not detected**
    - Error : [ERROR] Python is not installed or not in PATH.
    - Fix : Reinstall Python 3.x and check "Add Python to PATH" during installation.
-   - Test with : python --version
+   - Test with : 
+     ```bash
+     python --version
 
-2. **pip not detected**
+3. **pip not detected**
    - Error: [ERROR] pip is not installed or not in PATH.
    - Fix: Reinstall Python (pip comes bundled).
 
-   - install manually: python -m ensurepip --upgrade
+   - install manually:
+     ```bash
+     python -m ensurepip --upgrade
 
-3. **mkvpropedit not found**
+4. **mkvpropedit not found**
    - Error: [WARNING] mkvpropedit not found!
    - Fix: Install MKVToolNix from https://mkvtoolnix.download/
 
